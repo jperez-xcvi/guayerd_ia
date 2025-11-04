@@ -2,21 +2,7 @@
 
 ## Identificación del tema, problema y solución
 
-Se poseen datos de la tienda Aurelion destinados a ser analizados para responder los siguientes interrogantes preliminares debido a que aún no se tiene conocimiento del estado del negocio:
-
-  
-
-- ¿Cuales son los productos más y menos vendidos, y cuales no generan ventas?
-
-- ¿Cuales son los clientes que más compran?
-
-- ¿Cuales son las ciudades que registran más ventas?
-
-- ¿Cuales son los días o meses que más ventas se registran?
-
-- ¿Cuales son los medios de pago más utilizados?
-
-- ¿Cuales son los clientes más antiguos?
+¿Qué factores influyen en el volumen de ventas y cómo pueden optimizarse las estrategias comerciales para aumentar las compras de los productos con menor rotación?
 
   
   
