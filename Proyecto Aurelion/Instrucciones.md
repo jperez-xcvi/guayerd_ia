@@ -1,8 +1,8 @@
-## Usuario
+# Usuario
 
 Hola requiero un script de python que lea la información de un archivo de documentación markdown y la muestre en consola, como ves el .md se divide en capítulos (titulares h2 o ##) requiero que el programa solicite al usuario la elección de un capítulo debe tener mensaje de bienvenida y despedida así como opción para finalizar el ciclo de peticiones al usuario, adapta automáticamente la ruta de ingreso del archivo.
 
-## Copilot
+# Copilot
 
 Excelente 
 Tu requerimiento está claro: quieres un programa en Python que:
@@ -99,11 +99,11 @@ if __name__ == "__main__":
     main()
 ```
 
-## Usuario
+# Usuario
 
 indicame como verifico si los valores de una columna son unicos
 
-## Copilot
+# Copilot
 
 Para verificar si los valores de una columna son únicos en un DataFrame de pandas, hay varias formas. Te muestro las más comunes:
 
@@ -142,10 +142,10 @@ conteo = df_clientes['nombre_columna'].value_counts()
 print(conteo)
 ```
 
-## Usuario
+# Usuario
 recuerdame como hago un heatmap de correlaciones
 
-## Copilot
+# Copilot
 Usa seaborn sobre la matriz de correlación de las columnas numéricas. Ejemplos cortos:
 
 ```
@@ -170,7 +170,7 @@ plt.title("Heatmap (triángulo superior oculto)")
 plt.show()
 ```
 
-## Usuario
+# Usuario
 recuerdame como hago boxplot con seaborn
 
 # Copilot
@@ -209,4 +209,82 @@ sns.catplot(kind='box', x='categoria', y='importe', col='medio_pago',
             data=aurelion, col_wrap=3, sharey=True)
 plt.tight_layout()
 plt.show()
+```
+
+# Usuario
+recuerdame como hago boxplot con seaborn
+
+# Copilot
+Ejemplos cortos para hacer boxplots con seaborn (reemplaza aurelion/columnas según tu DataFrame):
+
+```
+# 1) Boxplot simple de una columna numérica
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+sns.boxplot(x=aurelion['importe'].dropna())
+plt.title('Boxplot de importe')
+plt.show()
+```
+
+```
+# 2) Boxplot por categoría (comparar distribución por grupo)
+sns.boxplot(x='categoria', y='importe', data=aurelion)
+plt.xticks(rotation=45)
+plt.title('Importe por categoría')
+plt.tight_layout()
+plt.show()
+```
+
+```
+# 3) Horizontal + ocultar outliers (showfliers=False)
+sns.boxplot(x='importe', y='categoria', data=aurelion, showfliers=False)
+plt.title('Importe por categoría (sin outliers)')
+plt.tight_layout()
+plt.show()
+```
+
+```
+# 4) Grid de boxplots por otra variable con catplot (facets)
+sns.catplot(kind='box', x='categoria', y='importe', col='medio_pago',
+            data=aurelion, col_wrap=3, sharey=True)
+plt.tight_layout()
+plt.show()
+```
+
+# Usuario
+ayudame con un grafico de dispersion de la relacion entre precio y cantidad vendida
+
+# Copilot
+
+```
+plt.figure(figsize=(8,6))
+sns.scatterplot(x='precio_unitario', y='cantidad', data=aurelion, hue='categoria', alpha=0.7)
+plt.title('Relación entre precio unitario y cantidad vendida')
+plt.xlabel('Precio unitario')
+plt.ylabel('Cantidad vendida')
+plt.tight_layout()
+plt.show()
+
+correlacion = aurelion['precio_unitario'].corr(aurelion['cantidad'])
+print(f"📉 Correlación precio vs cantidad: {correlacion:.2f}")
+```
+# Usuario
+necesito generar una grafica donde se representen los producto con menor rotación
+
+# copilot
+
+```
+productos_menos_vendidos = ventas_por_producto.tail(10)
+print("Productos con menor rotación:")
+print(productos_menos_vendidos)
+
+plt.figure(figsize=(10,6))
+sns.barplot(x='cantidad', y='producto_comprado', data=productos_menos_vendidos, palette='rocket')
+plt.title('Productos con menor rotación')
+plt.xlabel('Cantidad vendida')
+plt.ylabel('Producto')
+plt.tight_layout()
+plt.show()
+
 ```
