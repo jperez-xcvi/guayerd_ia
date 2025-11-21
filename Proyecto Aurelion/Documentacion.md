@@ -1,6 +1,17 @@
-# Entregable No. 1
+# Entregable Sprint 1
 
-## Identificación del tema, problema y solución
+## Requisitos
+
+1. Tema, problema y solución
+2. Dataset de referencia: fuente, definición, estructura, tipos y escala
+3. Información, pasos, pseudocódigo, diagrama del programa
+4. Sugerencias y mejoras aplicadas con copilot
+5. programa (.py) que lea y muestre la información de la documentación
+6. Archivo (.md) mostrando las instrucciones empleadas por Copilot que sirvieron como apoyo
+
+**NOTA :** en este primer sprint los requisitos apuntan a desarrollar la documentación por lo que los requisitos del 1 al 3 se encuentran consignados en este mismo fichero `Documentacion.md`, el requisito No. 5 se atiende con el fichero python llamado `leer_markdown.py`. Finalmente los requisitos 4 y 6 se atienden con `Instrucciones.md`, para relacionar el contenido de los entregables con los requisitos de entrega se emplea la notación (S<Número del Sprint> : req<Número del Sprint>) en titulares que usen el formato markdown tanto en la documentación como en notebooks.
+
+## Identificación del tema, problema y solución (S1 : req1)
 
 ¿Qué factores influyen en el volumen de ventas y cómo pueden optimizarse las estrategias comerciales para aumentar las compras de los productos con menor rotación?
 
@@ -13,7 +24,7 @@
 
   
 
-## Dataset de referencia
+## Dataset de referencia (S1 : req2)
 
 ### Estructura
 
@@ -74,7 +85,7 @@ Según su origen asumimos que los datos los suministra algún tipo de sistema PO
 ---
   
 
-## Información, pasos, pseudocódigo y diagrama del programa
+## Información, pasos, pseudocódigo y diagrama del programa (S1 : req3)
 
   
 
@@ -320,4 +331,15 @@ stop
 @enduml
 ```
 
+# Entregable Sprint 2
 
+## Requisitos
+
+1. Estadísticas descriptivas básicas calculadas
+2. Identificación del tipo de distribución de variables
+3. Análisis de correlaciones entre variables principales
+4. Detección de Outliers
+5. Gráficos representativos (Mínimo 3)
+6. Interpretación de resultados orientada al problema
+7. Base de datos (.csv) lista y limpia para análisis
+8. Información actualizada del proyecto

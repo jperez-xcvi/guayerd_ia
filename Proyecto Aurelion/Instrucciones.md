@@ -1,8 +1,10 @@
-# Usuario
+# Instrucciones Copilot (S1 : req4, req6)
+
+## Usuario
 
 Hola requiero un script de python que lea la información de un archivo de documentación markdown y la muestre en consola, como ves el .md se divide en capítulos (titulares h2 o ##) requiero que el programa solicite al usuario la elección de un capítulo debe tener mensaje de bienvenida y despedida así como opción para finalizar el ciclo de peticiones al usuario, adapta automáticamente la ruta de ingreso del archivo.
 
-# Copilot
+## Copilot
 
 Excelente 
 Tu requerimiento está claro: quieres un programa en Python que:
@@ -99,11 +101,11 @@ if __name__ == "__main__":
     main()
 ```
 
-# Usuario
+## Usuario
 
 indicame como verifico si los valores de una columna son unicos
 
-# Copilot
+## Copilot
 
 Para verificar si los valores de una columna son únicos en un DataFrame de pandas, hay varias formas. Te muestro las más comunes:
 
@@ -142,10 +144,10 @@ conteo = df_clientes['nombre_columna'].value_counts()
 print(conteo)
 ```
 
-# Usuario
+## Usuario
 recuerdame como hago un heatmap de correlaciones
 
-# Copilot
+## Copilot
 Usa seaborn sobre la matriz de correlación de las columnas numéricas. Ejemplos cortos:
 
 ```
@@ -170,10 +172,10 @@ plt.title("Heatmap (triángulo superior oculto)")
 plt.show()
 ```
 
-# Usuario
+## Usuario
 recuerdame como hago boxplot con seaborn
 
-# Copilot
+## Copilot
 Ejemplos cortos para hacer boxplots con seaborn (reemplaza aurelion/columnas según tu DataFrame):
 
 ```
@@ -211,10 +213,10 @@ plt.tight_layout()
 plt.show()
 ```
 
-# Usuario
+## Usuario
 recuerdame como hago boxplot con seaborn
 
-# Copilot
+## Copilot
 Ejemplos cortos para hacer boxplots con seaborn (reemplaza aurelion/columnas según tu DataFrame):
 
 ```
@@ -252,10 +254,10 @@ plt.tight_layout()
 plt.show()
 ```
 
-# Usuario
+## Usuario
 ayudame con un grafico de dispersion de la relacion entre precio y cantidad vendida
 
-# Copilot
+## Copilot
 
 ```
 plt.figure(figsize=(8,6))
@@ -269,10 +271,10 @@ plt.show()
 correlacion = aurelion['precio_unitario'].corr(aurelion['cantidad'])
 print(f"📉 Correlación precio vs cantidad: {correlacion:.2f}")
 ```
-# Usuario
+## Usuario
 necesito generar una grafica donde se representen los producto con menor rotación
 
-# copilot
+## copilot
 
 ```
 productos_menos_vendidos = ventas_por_producto.tail(10)
