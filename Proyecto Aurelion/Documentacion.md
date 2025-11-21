@@ -343,3 +343,16 @@ stop
 6. Interpretación de resultados orientada al problema
 7. Base de datos (.csv) lista y limpia para análisis
 8. Información actualizada del proyecto
+
+# Entregable Sprint 3
+
+## Requisitos
+
+1. Objetivo predecir o clasificar 
+2. Algoritmo elegido y justificación
+3. Entradas (X) y salida (y)
+4. Métricas de evaluación
+5. Modelo ML implementado
+6. División train/test y entrenamiento
+7. Predicciones y métricas calculadas
+8. Resultados en uno o más gráficos
