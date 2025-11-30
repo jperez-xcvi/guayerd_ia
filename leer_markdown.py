@@ -38,7 +38,7 @@ def mostrar_menu(capitulos):
 def main():
     print("👋 Bienvenido al lector de capítulos del archivo Documentacion.md 📘")
 
-    ruta = "Proyecto Aurelion/Documentacion.md"
+    ruta = "docs/Documentacion.md"
 
     try:
         lineas = leer_markdown(ruta)
