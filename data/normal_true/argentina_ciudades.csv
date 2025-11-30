@@ -1,0 +1,369 @@
+id_ciudad,city,latitud,longitud,geolabel
+1,Adrogue,-34.8,-58.3833,Adrogue-Argentina
+2,Aguilares,-27.4333,-65.6167,Aguilares-Argentina
+3,Aimogasta,-28.55,-66.8167,Aimogasta-Argentina
+4,Alba Posse,-27.55,-54.7,Alba Posse-Argentina
+5,Alberti,-35.0167,-60.2667,Alberti-Argentina
+6,Alta Gracia,-31.6667,-64.4333,Alta Gracia-Argentina
+7,Apostoles,-27.9167,-55.7667,Apostoles-Argentina
+8,Aristobulo del Valle,-27.1167,-54.9167,Aristobulo del Valle-Argentina
+9,Arraga,-28.0667,-64.2333,Arraga-Argentina
+10,Arrecifes,-34.0667,-60.1167,Arrecifes-Argentina
+11,Avellaneda,-34.6625,-58.3678,Avellaneda-Argentina
+12,Azul,-36.7833,-59.85,Azul-Argentina
+13,Bahia Blanca,-38.7167,-62.2667,Bahia Blanca-Argentina
+14,Balcarce,-37.8456,-58.2578,Balcarce-Argentina
+15,Banado de Ovanta,-28.1,-65.3167,Banado de Ovanta-Argentina
+16,Banda del Rio Sali,-26.85,-65.1667,Banda del Rio Sali-Argentina
+17,Banfield,-34.75,-58.3833,Banfield-Argentina
+18,Baradero,-33.8,-59.5167,Baradero-Argentina
+19,Barranqueras,-27.4833,-58.9333,Barranqueras-Argentina
+20,Beccar,-34.4667,-58.5167,Beccar-Argentina
+21,Belen de Escobar,-34.3333,-58.8167,Belen de Escobar-Argentina
+22,Bell Ville,-32.6333,-62.6833,Bell Ville-Argentina
+23,Bella Vista,-34.5333,-58.6667,Bella Vista-Argentina
+24,Bella Vista,-28.4667,-59.05,Bella Vista-Argentina
+25,Bella Vista,-27.0333,-65.3,Bella Vista-Argentina
+26,Berazategui,-34.7167,-58.25,Berazategui-Argentina
+27,Berisso,-34.8728,-57.8858,Berisso-Argentina
+28,Bernal,-34.7,-58.2833,Bernal-Argentina
+29,Bernardo de Irigoyen,-26.25,-53.9833,Bernardo de Irigoyen-Argentina
+30,Bragado,-35.1167,-60.5,Bragado-Argentina
+31,Brandsen,-35.1667,-58.2167,Brandsen-Argentina
+32,Buenos Aires,-34.6033,-58.3817,Buenos Aires-Argentina
+33,Burruyacu,-26.5,-64.75,Burruyacu-Argentina
+34,Burzaco,-34.8167,-58.3667,Burzaco-Argentina
+35,Cafayate,-26.0833,-65.9667,Cafayate-Argentina
+36,Campana,-34.1667,-58.9167,Campana-Argentina
+37,Campo Grande,-27.2167,-54.9667,Campo Grande-Argentina
+38,Campo Largo,-26.8,-60.8333,Campo Largo-Argentina
+39,Canada de Gomez,-32.8167,-61.4,Canada de Gomez-Argentina
+40,Candelaria,-27.4594,-55.7453,Candelaria-Argentina
+41,Canuelas,-35.0333,-58.7333,Canuelas-Argentina
+42,Capilla del Senor,-34.2833,-59.1,Capilla del Senor-Argentina
+43,Capitan Bermudez,-32.8167,-60.7167,Capitan Bermudez-Argentina
+44,Capitan Sarmiento,-34.1667,-59.7833,Capitan Sarmiento-Argentina
+45,Carlos Casares,-35.6167,-61.3667,Carlos Casares-Argentina
+46,Carmen de Areco,-34.3858,-59.8294,Carmen de Areco-Argentina
+47,Caseros,-34.6106,-58.5625,Caseros-Argentina
+48,Casilda,-33.05,-61.1667,Casilda-Argentina
+49,Castelar,-34.6667,-58.6667,Castelar-Argentina
+50,Catamarca,-28.4667,-65.7833,Catamarca-Argentina
+51,Catriel,-37.8667,-67.8333,Catriel-Argentina
+52,Centenario,-38.8,-68.1333,Centenario-Argentina
+53,Cerrillos,-24.9,-65.4833,Cerrillos-Argentina
+54,Chacabuco,-34.6333,-60.4667,Chacabuco-Argentina
+55,Chajari,-30.7667,-57.9833,Chajari-Argentina
+56,Charata,-27.2167,-61.2,Charata-Argentina
+57,Chascomus,-35.575,-58.0089,Chascomus-Argentina
+58,Chicoana,-25.1,-65.55,Chicoana-Argentina
+59,Chilecito,-29.1667,-67.5,Chilecito-Argentina
+60,Chimbas,-31.5,-68.5319,Chimbas-Argentina
+61,Chivilcoy,-34.9,-60.0167,Chivilcoy-Argentina
+62,City Bell,-34.85,-58.05,City Bell-Argentina
+63,Ciudad General Belgrano,-34.7167,-58.5333,Ciudad General Belgrano-Argentina
+64,Ciudadela,-34.6333,-58.5333,Ciudadela-Argentina
+65,Claypole,-34.8,-58.3333,Claypole-Argentina
+66,Clorinda,-25.2833,-57.7167,Clorinda-Argentina
+67,Colon,-33.8833,-61.1,Colon-Argentina
+68,Colon,-32.2167,-58.1333,Colon-Argentina
+69,Colonia Elisa,-26.9167,-59.5167,Colonia Elisa-Argentina
+70,Comodoro Rivadavia,-45.8647,-67.4808,Comodoro Rivadavia-Argentina
+71,Concaran,-32.5667,-65.25,Concaran-Argentina
+72,Concepcion,-27.3333,-65.5833,Concepcion-Argentina
+73,Concepcion de la Sierra,-27.9833,-55.5167,Concepcion de la Sierra-Argentina
+74,Concepcion del Uruguay,-32.4833,-58.2333,Concepcion del Uruguay-Argentina
+75,Concordia,-31.4,-58.0333,Concordia-Argentina
+76,Cordoba,-31.4167,-64.1833,Cordoba-Argentina
+77,Coronda,-31.9667,-60.9167,Coronda-Argentina
+78,Coronel Suarez,-37.4667,-61.9333,Coronel Suarez-Argentina
+79,Coronel Vidal,-37.45,-57.7167,Coronel Vidal-Argentina
+80,Corrientes,-27.4833,-58.8167,Corrientes-Argentina
+81,Corzuela,-26.9333,-60.9667,Corzuela-Argentina
+82,Cosquin,-31.2436,-64.4653,Cosquin-Argentina
+83,Cruz del Eje,-30.7333,-64.8,Cruz del Eje-Argentina
+84,Cutral-Co,-38.9333,-69.2333,Cutral-Co-Argentina
+85,Diamante,-32.0667,-60.65,Diamante-Argentina
+86,Dock Sur,-34.6417,-58.3478,Dock Sur-Argentina
+87,Dolores,-36.3167,-57.6667,Dolores-Argentina
+88,Dolores,-30.906,-64.5358,Dolores-Argentina
+89,Don Torcuato,-34.5,-58.6167,Don Torcuato-Argentina
+90,El Carmen,-24.3875,-65.2592,El Carmen-Argentina
+91,El Palomar,-34.6167,-58.5833,El Palomar-Argentina
+92,El Soberbio,-27.3,-54.2167,El Soberbio-Argentina
+93,El Talar de Pacheco,-34.4719,-58.655,El Talar de Pacheco-Argentina
+94,Eldorado,-26.4,-54.6333,Eldorado-Argentina
+95,Empedrado,-27.9333,-58.7833,Empedrado-Argentina
+96,Ensenada,-34.8644,-57.9103,Ensenada-Argentina
+97,Ensenada Berisso,-34.8667,-57.9,Ensenada Berisso-Argentina
+98,Esperanza,-31.4167,-60.9333,Esperanza-Argentina
+99,Esquina,-30.0144,-59.5272,Esquina-Argentina
+100,Esteban Echeverria,-34.8167,-58.4667,Esteban Echeverria-Argentina
+101,Ezpeleta,-34.7517,-58.2344,Ezpeleta-Argentina
+102,Famailla,-27.05,-65.4,Famailla-Argentina
+103,Federacion,-30.9833,-57.9167,Federacion-Argentina
+104,Fernandez,-27.9167,-63.8833,Fernandez-Argentina
+105,Firmat,-33.45,-61.4833,Firmat-Argentina
+106,Florencio Varela,-34.8167,-58.2833,Florencio Varela-Argentina
+107,Florida,-34.5167,-58.5,Florida-Argentina
+108,Fontana,-27.4167,-59.0333,Fontana-Argentina
+109,Formosa,-26.1833,-58.1833,Formosa-Argentina
+110,Garin,-34.4167,-58.75,Garin-Argentina
+111,Garupa,-27.4833,-55.8333,Garupa-Argentina
+112,General Arenales,-34.2833,-61.2833,General Arenales-Argentina
+113,General Belgrano,-35.7667,-58.5,General Belgrano-Argentina
+114,General Jose de San Martin,-26.5375,-59.3417,General Jose de San Martin-Argentina
+115,General Juan Madariaga,-37.0167,-57.1333,General Juan Madariaga-Argentina
+116,General Las Heras,-34.9333,-58.95,General Las Heras-Argentina
+117,General Martin Miguel de Güemes,-24.6667,-65.05,General Martin Miguel de Güemes-Argentina
+118,General Pacheco,-34.45,-58.65,General Pacheco-Argentina
+119,General Pico,-35.6667,-63.7333,General Pico-Argentina
+120,General Pinedo,-27.3167,-61.2833,General Pinedo-Argentina
+121,General Roca,-39.0333,-67.5833,General Roca-Argentina
+122,General Rodriguez,-34.6167,-58.95,General Rodriguez-Argentina
+123,General San Martin,-34.5667,-58.5333,General San Martin-Argentina
+124,General Viamonte,-35,-61.0333,General Viamonte-Argentina
+125,Gerli,-34.6833,-58.3667,Gerli-Argentina
+126,Glew,-34.8833,-58.3833,Glew-Argentina
+127,Gobernador Galvez,-33.0256,-60.6336,Gobernador Galvez-Argentina
+128,Gobernador Virasora,-28.05,-56.0333,Gobernador Virasora-Argentina
+129,Godoy Cruz,-32.9167,-68.8333,Godoy Cruz-Argentina
+130,Gonzalez Catan,-34.7667,-58.6167,Gonzalez Catan-Argentina
+131,Goya,-29.1333,-59.25,Goya-Argentina
+132,Granadero Baigorria,-32.85,-60.7,Granadero Baigorria-Argentina
+133,Grand Bourg,-34.4833,-58.7167,Grand Bourg-Argentina
+134,Graneros,-27.65,-65.45,Graneros-Argentina
+135,Gualeguay,-33.15,-59.3333,Gualeguay-Argentina
+136,Gualeguaychu,-33.0167,-58.5167,Gualeguaychu-Argentina
+137,Guernica,-34.9167,-58.3833,Guernica-Argentina
+138,Haedo,-34.65,-58.6,Haedo-Argentina
+139,Hurlingham,-34.6,-58.6333,Hurlingham-Argentina
+140,Ingeniero Pablo Nogues,-34.4667,-58.7667,Ingeniero Pablo Nogues-Argentina
+141,Isidro Casanova,-34.7,-58.5833,Isidro Casanova-Argentina
+142,Itati,-27.2667,-58.25,Itati-Argentina
+143,Ituzaingo,-34.6667,-58.6667,Ituzaingo-Argentina
+144,Jardin America,-27.05,-55.2333,Jardin America-Argentina
+145,Jesus Maria,-30.9833,-64.1,Jesus Maria-Argentina
+146,Jose C. Paz,-34.5167,-58.7667,Jose C. Paz-Argentina
+147,Jose Maria Ezeiza,-34.8333,-58.5167,Jose Maria Ezeiza-Argentina
+148,Jose Marmol,-34.7833,-58.3667,Jose Marmol-Argentina
+149,Junin,-34.5833,-60.95,Junin-Argentina
+150,Junin,-33.1333,-68.4667,Junin-Argentina
+151,Junin de los Andes,-39.9167,-71.0667,Junin de los Andes-Argentina
+152,La Banda,-27.7333,-64.25,La Banda-Argentina
+153,La Caldera,-24.6,-65.3833,La Caldera-Argentina
+154,La Calera,-31.3439,-64.3353,La Calera-Argentina
+155,La Carlota,-33.4333,-63.3,La Carlota-Argentina
+156,La Cocha,-27.77,-65.5858,La Cocha-Argentina
+157,La Leonesa,-27.05,-58.7167,La Leonesa-Argentina
+158,La Paz,-30.75,-59.65,La Paz-Argentina
+159,La Plata,-34.9211,-57.9544,La Plata-Argentina
+160,La Quiaca,-22.1042,-65.5972,La Quiaca-Argentina
+161,La Reja,-34.6394,-58.8283,La Reja-Argentina
+162,La Rioja,-29.4125,-66.8542,La Rioja-Argentina
+163,Lanus,-34.7,-58.4,Lanus-Argentina
+164,Las Brenas,-27.0667,-61.0667,Las Brenas-Argentina
+165,Las Flores,-36.0139,-59.1,Las Flores-Argentina
+166,Las Heras,-32.85,-68.8167,Las Heras-Argentina
+167,Las Rosas,-32.4833,-61.5833,Las Rosas-Argentina
+168,Leandro N. Alem,-27.6,-55.3333,Leandro N. Alem-Argentina
+169,Libertad,-34.6833,-58.6833,Libertad-Argentina
+170,Libertador General San Martin,-23.8,-64.7833,Libertador General San Martin-Argentina
+171,Lincoln,-34.85,-61.5167,Lincoln-Argentina
+172,Llavallol,-34.7667,-58.3833,Llavallol-Argentina
+173,Lobos,-35.1833,-59.0833,Lobos-Argentina
+174,Lomas de Zamora,-34.7667,-58.4,Lomas de Zamora-Argentina
+175,Lomas del Mirador,-34.6667,-58.5297,Lomas del Mirador-Argentina
+176,Longchamps,-34.85,-58.3833,Longchamps-Argentina
+177,Los Polvorines,-34.5,-58.7,Los Polvorines-Argentina
+178,Lujan,-34.5667,-59.1,Lujan-Argentina
+179,Lujan de Cuyo,-32.998,-68.873,Lujan de Cuyo-Argentina
+180,Macachin,-37.15,-63.65,Macachin-Argentina
+181,Machagai,-26.9167,-60.0333,Machagai-Argentina
+182,Magdalena,-35.0833,-57.5167,Magdalena-Argentina
+183,Maipu,-32.9667,-68.75,Maipu-Argentina
+184,Makalle,-27.2,-59.2833,Makalle-Argentina
+185,Mar de Ajo,-36.7203,-56.6878,Mar de Ajo-Argentina
+186,Mar del Plata,-38,-57.55,Mar del Plata-Argentina
+187,Mar del Tuyu,-36.5333,-56.6667,Mar del Tuyu-Argentina
+188,Marcos Juarez,-32.7,-62.1,Marcos Juarez-Argentina
+189,Marcos Paz,-34.7667,-58.8333,Marcos Paz-Argentina
+190,Margarita Belen,-27.2667,-58.9667,Margarita Belen-Argentina
+191,Mariano Acosta,-34.7167,-58.7833,Mariano Acosta-Argentina
+192,Martinez,-34.4833,-58.5,Martinez-Argentina
+193,Mburucuya,-28.05,-58.2333,Mburucuya-Argentina
+194,Melincue,-33.65,-61.45,Melincue-Argentina
+195,Mendoza,-32.8833,-68.8167,Mendoza-Argentina
+196,Mercedes,-34.65,-59.4333,Mercedes-Argentina
+197,Merlo,-34.6653,-58.7275,Merlo-Argentina
+198,Metan,-25.499,-64.9739,Metan-Argentina
+199,Miramar,-38.2667,-57.8333,Miramar-Argentina
+200,Monte Caseros,-30.25,-57.65,Monte Caseros-Argentina
+201,Monte Chingolo,-34.7333,-58.35,Monte Chingolo-Argentina
+202,Monte Hermoso,-38.9167,-61.55,Monte Hermoso-Argentina
+203,Montecarlo,-26.5667,-54.7833,Montecarlo-Argentina
+204,Monteros,-27.1667,-65.5,Monteros-Argentina
+205,Moron,-34.65,-58.6167,Moron-Argentina
+206,Muniz,-34.5333,-58.7,Muniz-Argentina
+207,Munro,-34.5333,-58.5167,Munro-Argentina
+208,Navarro,-35.0167,-59.2667,Navarro-Argentina
+209,Necochea,-38.55,-58.7333,Necochea-Argentina
+210,Neuquen,-38.9525,-68.0642,Neuquen-Argentina
+211,Nogoya,-32.4,-59.8,Nogoya-Argentina
+212,Nueve de Julio,-35.45,-60.8833,Nueve de Julio-Argentina
+213,Nueve de Julio,-31.65,-68.4,Nueve de Julio-Argentina
+214,Obera,-27.4833,-55.1333,Obera-Argentina
+215,Olavarria,-36.9,-60.3333,Olavarria-Argentina
+216,Oliva,-32.0333,-63.5667,Oliva-Argentina
+217,Olivos,-34.5075,-58.487,Olivos-Argentina
+218,Palpala,-24.25,-65.1167,Palpala-Argentina
+219,Parana,-31.7331,-60.5297,Parana-Argentina
+220,Paso de los Libres,-29.7167,-57.0833,Paso de los Libres-Argentina
+221,Pehuajo,-35.8,-61.9,Pehuajo-Argentina
+222,Perez,-33,-60.7667,Perez-Argentina
+223,Pergamino,-33.8833,-60.5667,Pergamino-Argentina
+224,Pichanal,-23.3167,-64.2167,Pichanal-Argentina
+225,Pilar,-34.45,-58.9167,Pilar-Argentina
+226,Pinamar,-37.1,-56.85,Pinamar-Argentina
+227,Pirane,-25.7328,-59.11,Pirane-Argentina
+228,Plottier,-38.95,-68.2333,Plottier-Argentina
+229,Posadas,-27.3667,-55.9,Posadas-Argentina
+230,Presidencia Roque Saenz Pena,-26.7833,-60.45,Presidencia Roque Saenz Pena-Argentina
+231,Puerto Esperanza,-26.0167,-54.65,Puerto Esperanza-Argentina
+232,Puerto Iguazu,-25.6,-54.5667,Puerto Iguazu-Argentina
+233,Puerto Madryn,-42.7667,-65.05,Puerto Madryn-Argentina
+234,Puerto Rico,-26.8,-55.0167,Puerto Rico-Argentina
+235,Puerto Tirol,-27.3667,-59.0667,Puerto Tirol-Argentina
+236,Punta Alta,-38.88,-62.075,Punta Alta-Argentina
+237,Quilmes,-34.7167,-58.2667,Quilmes-Argentina
+238,Quitilipi,-26.8667,-60.2167,Quitilipi-Argentina
+239,Rafael Calzada,-34.7833,-58.3667,Rafael Calzada-Argentina
+240,Rafael Castillo,-34.7167,-58.6167,Rafael Castillo-Argentina
+241,Rafaela,-31.2667,-61.4833,Rafaela-Argentina
+242,Ramallo,-33.3167,-60.2,Ramallo-Argentina
+243,Ramos Mejia,-34.65,-58.5667,Ramos Mejia-Argentina
+244,Ranchos,-35.5333,-58.2833,Ranchos-Argentina
+245,Rawson,-43.3,-65.1,Rawson-Argentina
+246,Realico,-35.0389,-64.2472,Realico-Argentina
+247,Reconquista,-29.2333,-59.9333,Reconquista-Argentina
+248,Remedios de Escalada,-34.7167,-58.4,Remedios de Escalada-Argentina
+249,Resistencia,-27.4514,-58.9867,Resistencia-Argentina
+250,Rio Cuarto,-33.1333,-64.35,Rio Cuarto-Argentina
+251,Rio Gallegos,-51.6233,-69.2161,Rio Gallegos-Argentina
+252,Rio Grande,-53.7833,-67.7,Rio Grande-Argentina
+253,Rio Tercero,-32.1833,-64.1,Rio Tercero-Argentina
+254,Rivadavia,-31.5303,-68.5947,Rivadavia-Argentina
+255,Rivadavia,-33.1833,-68.4667,Rivadavia-Argentina
+256,Rojas,-34.1953,-60.735,Rojas-Argentina
+257,Roque Perez,-35.4167,-59.3167,Roque Perez-Argentina
+258,Rosario,-32.9575,-60.6394,Rosario-Argentina
+259,Rosario de Lerma,-24.9833,-65.5833,Rosario de Lerma-Argentina
+260,Rosario del Tala,-32.3,-59.1333,Rosario del Tala-Argentina
+261,Saladas,-28.25,-58.6167,Saladas-Argentina
+262,Saladillo,-35.6371,-59.7779,Saladillo-Argentina
+263,Salliquelo,-36.7522,-62.9605,Salliquelo-Argentina
+264,Salta,-24.7833,-65.4167,Salta-Argentina
+265,Salto,-34.2929,-60.2546,Salto-Argentina
+266,San Agustin,-31.9833,-64.3833,San Agustin-Argentina
+267,San Andres de Giles,-34.4333,-59.4333,San Andres de Giles-Argentina
+268,San Antonio,-24.3675,-65.3353,San Antonio-Argentina
+269,San Antonio de Areco,-34.25,-59.4667,San Antonio de Areco-Argentina
+270,San Antonio de Padua,-34.6667,-58.7,San Antonio de Padua-Argentina
+271,San Bernardo,-27.2667,-60.7,San Bernardo-Argentina
+272,San Carlos de Bariloche,-41.15,-71.3,San Carlos de Bariloche-Argentina
+273,San Carlos de Bolivar,-36.25,-61.1,San Carlos de Bolivar-Argentina
+274,San Cosme,-27.5167,-58.5667,San Cosme-Argentina
+275,San Fernando,-34.45,-58.5667,San Fernando-Argentina
+276,San Francisco,-31.4356,-62.0714,San Francisco-Argentina
+277,San Francisco Solano,-34.7667,-58.3167,San Francisco Solano-Argentina
+278,San Ignacio,-27.2583,-55.5392,San Ignacio-Argentina
+279,San Isidro,-34.4667,-58.5167,San Isidro-Argentina
+280,San Isidro,-28.4333,-65.7167,San Isidro-Argentina
+281,San Isidro de Lules,-26.9333,-65.35,San Isidro de Lules-Argentina
+282,San Javier,-27.8739,-55.1347,San Javier-Argentina
+283,San Jose,-28.3667,-65.7,San Jose-Argentina
+284,San Juan,-31.5342,-68.5261,San Juan-Argentina
+285,San Justo,-34.6833,-58.55,San Justo-Argentina
+286,San Justo,-30.7833,-60.5833,San Justo-Argentina
+287,San Lorenzo,-28.12,-58.77,San Lorenzo-Argentina
+288,San Lorenzo,-32.75,-60.7333,San Lorenzo-Argentina
+289,San Luis,-33.3,-66.3333,San Luis-Argentina
+290,San Luis del Palmar,-27.5167,-58.5667,San Luis del Palmar-Argentina
+291,San Martin,-33.0806,-68.4706,San Martin-Argentina
+292,San Martin,-31.4397,-68.5206,San Martin-Argentina
+293,San Martin de los Andes,-40.1667,-71.35,San Martin de los Andes-Argentina
+294,San Miguel,-34.5333,-58.7167,San Miguel-Argentina
+295,San Miguel de Tucuman,-26.8167,-65.2167,San Miguel de Tucuman-Argentina
+296,San Miguel del Monte,-35.4396,-58.8067,San Miguel del Monte-Argentina
+297,San Nicolas de los Arroyos,-33.3333,-60.2167,San Nicolas de los Arroyos-Argentina
+298,San Pedro,-33.6792,-59.6669,San Pedro-Argentina
+299,San Pedro,-24.2196,-64.87,San Pedro-Argentina
+300,San Pedro,-26.6292,-54.1133,San Pedro-Argentina
+301,San Rafael,-34.6,-68.3333,San Rafael-Argentina
+302,San Ramon de la Nueva Oran,-23.1333,-64.3333,San Ramon de la Nueva Oran-Argentina
+303,San Roque,-28.5667,-58.7167,San Roque-Argentina
+304,San Salvador,-31.6167,-58.5,San Salvador-Argentina
+305,San Salvador de Jujuy,-24.1833,-65.3,San Salvador de Jujuy-Argentina
+306,San Vicente,-35.0167,-58.4167,San Vicente-Argentina
+307,Santa Ana,-27.35,-55.6,Santa Ana-Argentina
+308,Santa Fe,-31.6333,-60.7,Santa Fe-Argentina
+309,Santa Lucia,-28.9833,-59.1,Santa Lucia-Argentina
+310,Santa Lucia,-31.5399,-68.495,Santa Lucia-Argentina
+311,Santa Rosa,-36.6167,-64.2833,Santa Rosa-Argentina
+312,Santa Rosa de Rio Primero,-31.15,-63.3833,Santa Rosa de Rio Primero-Argentina
+313,Santa Rosa del Conlara,-32.3428,-65.2089,Santa Rosa del Conlara-Argentina
+314,Santiago del Estero,-27.7833,-64.2667,Santiago del Estero-Argentina
+315,Santo Tome,-31.6667,-60.7667,Santo Tome-Argentina
+316,Santo Tome,-28.55,-56.05,Santo Tome-Argentina
+317,Sarandi,-34.6833,-58.3333,Sarandi-Argentina
+318,Sastre,-31.75,-61.8333,Sastre-Argentina
+319,Simoca,-27.2667,-65.3333,Simoca-Argentina
+320,Suipacha,-34.7702,-59.6878,Suipacha-Argentina
+321,Tafi Viejo,-26.7333,-65.2667,Tafi Viejo-Argentina
+322,Tandil,-37.3167,-59.1333,Tandil-Argentina
+323,Tartagal,-22.5,-63.8333,Tartagal-Argentina
+324,Temperley,-34.7667,-58.3833,Temperley-Argentina
+325,Termas de Rio Hondo,-27.4833,-64.8667,Termas de Rio Hondo-Argentina
+326,Tigre,-34.5,-58.6167,Tigre-Argentina
+327,Tilcara,-23.5667,-65.3667,Tilcara-Argentina
+328,Tolosa,-34.8942,-57.9647,Tolosa-Argentina
+329,Tortuguitas,-34.475,-58.7556,Tortuguitas-Argentina
+330,Trelew,-43.25,-65.3,Trelew-Argentina
+331,Trenque Lauquen,-35.9667,-62.7,Trenque Lauquen-Argentina
+332,Tres Arroyos,-38.3667,-60.2667,Tres Arroyos-Argentina
+333,Tres Isletas,-26.35,-60.4167,Tres Isletas-Argentina
+334,Tunuyan,-33.5667,-69.0167,Tunuyan-Argentina
+335,Tupungato,-33.3715,-69.1484,Tupungato-Argentina
+336,Ushuaia,-54.8019,-68.3031,Ushuaia-Argentina
+337,Vedia,-34.4956,-61.5414,Vedia-Argentina
+338,Veinticinco de Mayo,-35.4167,-60.1667,Veinticinco de Mayo-Argentina
+339,Viedma,-40.8,-63,Viedma-Argentina
+340,Villa Aberastain,-31.65,-68.5833,Villa Aberastain-Argentina
+341,Villa Adelina,-34.5167,-58.5333,Villa Adelina-Argentina
+342,Villa Alberdi,-27.5859,-65.6204,Villa Alberdi-Argentina
+343,Villa Alsina,-34.6667,-58.4167,Villa Alsina-Argentina
+344,Villa angela,-27.5833,-60.7167,Villa angela-Argentina
+345,Villa Ballester,-34.5167,-58.5333,Villa Ballester-Argentina
+346,Villa Berthet,-27.2667,-60.4167,Villa Berthet-Argentina
+347,Villa Carlos Paz,-31.4,-64.5167,Villa Carlos Paz-Argentina
+348,Villa Celina,-34.7167,-58.4833,Villa Celina-Argentina
+349,Villa Constitucion,-33.2333,-60.3333,Villa Constitucion-Argentina
+350,Villa Cura Brochero,-31.6667,-65.0167,Villa Cura Brochero-Argentina
+351,Villa del Rosario,-31.5833,-63.5333,Villa del Rosario-Argentina
+352,Villa del Totoral,-30.8167,-63.7167,Villa del Totoral-Argentina
+353,Villa Dolores,-31.9333,-65.2,Villa Dolores-Argentina
+354,Villa Dominico,-34.6917,-58.3333,Villa Dominico-Argentina
+355,Villa Gesell,-37.25,-56.9833,Villa Gesell-Argentina
+356,Villa Krause,-31.5833,-68.5333,Villa Krause-Argentina
+357,Villa Luzuriaga,-34.6595,-58.5833,Villa Luzuriaga-Argentina
+358,Villa Maria,-32.4103,-63.2314,Villa Maria-Argentina
+359,Villa Media Agua,-31.9833,-68.4333,Villa Media Agua-Argentina
+360,Villa Mercedes,-33.6667,-65.4667,Villa Mercedes-Argentina
+361,Villa Regina,-39.1,-67.0667,Villa Regina-Argentina
+362,Villa San Isidro,-31.4868,-68.3254,Villa San Isidro-Argentina
+363,Villaguay,-31.85,-59.0167,Villaguay-Argentina
+364,Virreyes,-34.45,-58.5333,Virreyes-Argentina
+365,Wilde,-34.7,-58.3167,Wilde-Argentina
+366,Yerba Buena,-26.8167,-65.3167,Yerba Buena-Argentina
+367,Zapala,-38.9,-70.0667,Zapala-Argentina
+368,Zarate,-34.0833,-59.0333,Zarate-Argentina
