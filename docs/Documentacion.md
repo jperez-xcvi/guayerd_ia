@@ -356,3 +356,19 @@ stop
 6. División train/test y entrenamiento
 7. Predicciones y métricas calculadas
 8. Resultados en uno o más gráficos
+
+# Entregable Sprint 4
+
+## Requisitos
+
+1. Entrega de dashboard en Power BI
+
+# Especificaciones y notas del desarrollador
+
+El formato original de los datos consistía en archivos extensión .csv usándose así durante 3/4 sprints para su facilidad de manejo en el entrenamiento de modelos y Análisis Exploratorios con python.
+
+Para el sprint 4 se solicitó la creación de dashboard en Power BI por lo que en aras de aportar escalabilidad al ejercicio y aproximándolo a una ejecución bastante cercana a lo que se hace en un proyecto real, los datos fueron migrados a una base de datos PostgreSQL  en nube mediante servicio gratuito de aiven `(https://aiven.io/)` posterior a un debido proceso de normalización y modelamiento de datos, puede verse como se realizó la migración mediante `datapipeline.ipynb`. Se utilizó una fuente de datos externas de ciudades de Argentina para poder crear la entidad correspondiente, la fuente de los datos corresponde a `https://simplemaps.com/data/ar-cities`.
+
+El campo de importe se determinó como una medida o atributo calculado por lo cual fue excluido de la base de datos y se implementó como medida mediante Power BI optimizando uso de memoria, la conexión a la base de datos se realizó mediante conector ODBC el cuál puede ser descargado e instalado desde el sitio oficial de PostgreSQL, esto para permitir conexiones SSL ya que los servicios en nube para bases de datos lo exigen.
+
+Se incluyó realización de identidad visual a la marca ficticia de tienda Aurelion para ofrecer no solo un producto funcional si no también estético que reflejara profesionalidad en la presentación del informe visual de Power BI.
